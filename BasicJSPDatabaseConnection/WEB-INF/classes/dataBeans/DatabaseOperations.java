@@ -1,15 +1,7 @@
-/* Assignment 8.1 - Create a JavaBean that saves form data into a database
- * Dylan MacDermot
- * November 26th, 2018
- * Bellevue University
- * DatabaseOperations.java
+/* Author: Dylan MacDermot
+ * Version 1.0
+ * Purpose: To provide a JSP with the functionality to connect to an Oracle 11g Database
  */
-
- /* DELETE
- C:\Java\Tomcat\webapps\DylanMacDermotWeek8\WEB-INF\classes\dataBeans>javac -classpath C:\Java\Tomcat\webapps\DylanMacDermotWeek8\WEB-INF\classes\;C:\Java\Tomcat\lib\servlet-api.jar;C:\Java\Tomcat\lib\jsp-api.jar;C:\Java\jdk\lib\ojdbc5.jar DatabaseOperations.java
- */
- 
- 
 package dataBeans;
 
 import database.*;
