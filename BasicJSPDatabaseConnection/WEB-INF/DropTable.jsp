@@ -1,11 +1,8 @@
 <% 
-		/*
-		Assignment 7.1 - Drop DB table
-		Dylan MacDermot
-		November 22nd, 2018
-		Bellevue University
-		DylanMacDermotDropTable.jsp
-		*/ 
+/* Author: Dylan MacDermot
+ * Version: 1.0
+ * Purpose: JSP to drop the table
+ */
 %>
 <%@ page import="dataBeans.DatabaseOperations" %>
 
