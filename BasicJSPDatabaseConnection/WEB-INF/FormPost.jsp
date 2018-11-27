@@ -1,11 +1,8 @@
 <%
-	/* Assignment 7.1 - JSP to read from and write to a database. This JSP does not itself connect to the database
-	 *                  but instead calls an external class to connect to the database.
-	 * Dylan MacDermot
-	 * November 22nd, 2018
-	 * Bellevue University
-	 * DylanMacDermotFormPost4.jsp
-	 */
+/* Author: Dylan MacDermot
+ * Version: 1.0
+ * Purpose: JSP Form to update/read from database table.
+ */
 %>
 
 <%@ page import="dataBeans.DatabaseOperations" %>
@@ -19,7 +16,7 @@
 
 <html>
 	<head>
-		<title> Hello week 7! </title>
+		<title> Welcome to my form! </title>
 		<link rel="stylesheet" type="text/css" href="Styles.css" />
 	</head>
 	<body>
