@@ -1,11 +1,9 @@
 <% 
-		/*
-		Assignment 7.1 - Create DB table
-		Dylan MacDermot
-		November 22nd, 2018
-		Bellevue University
-		DylanMacDermotCreateTable.jsp
-		*/ 
+/*
+Author: Dylan MacDermot
+Version: 1.0
+Purpose: This JSP creates the table with which the data from the form will be input
+*/ 
 %>
 
 <%@ page import="dataBeans.DatabaseOperations" %>
