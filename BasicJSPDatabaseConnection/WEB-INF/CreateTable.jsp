@@ -1,9 +1,9 @@
 <% 
 /*
-Author: Dylan MacDermot
-Version: 1.0
-Purpose: This JSP creates the table with which the data from the form will be input
-*/ 
+ * Author: Dylan MacDermot
+ * Version: 1.0
+ * Purpose: This JSP creates the table with which the data from the form will be input
+ */ 
 %>
 
 <%@ page import="dataBeans.DatabaseOperations" %>
