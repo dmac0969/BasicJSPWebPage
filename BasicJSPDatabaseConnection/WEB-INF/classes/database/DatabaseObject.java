@@ -1,3 +1,7 @@
+/* Author: Dylan MacDermot
+ * Version: 1.0
+ * Purpose: Provide the skeleton for the Database table that is created for use in this JSP/JavaBean web program
+ */
 package database;
 
 
